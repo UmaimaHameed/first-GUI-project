@@ -1,0 +1,17 @@
+GRAND HERITAGE HOTEL INVOICE
+
+Invoice ID: 7744
+Date: 2025-12-22
+
+Customer ID: 8313
+Name: man
+Phone: 08264654748
+Address: ku
+
+Room Type: Double
+Nights: 2
+Services: Wi-Fi (High-Speed), Laundry, Room Cleaning
+
+TOTAL BILL: ₹10700
+
+Thank you for staying with us!
